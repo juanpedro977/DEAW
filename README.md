@@ -8,14 +8,10 @@ Este es un repositorio que usaremos  para la práctica 8 que haremos con GitHub 
   </tr>
   <tr>
     <td>LAURA</td>
+    <td>lrodper0902@g.educaand.es</td>
+  </tr>
+  <tr>
     <td>ISA</td>
-  </tr>
-  <tr>
-    <td>19°C</td>
-    <td>17°C</td>
-  </tr>
-  <tr>
-    <td>E 13 km/h</td>
-    <td>E 11 km/h</td>
+    <td>iyessan445@g.educaand.es</td>
   </tr>
 </table>
